@@ -1,0 +1,25 @@
+{
+  "name": "Express-Basics-Activity",
+  "version": "1.0.0",
+  "description": "You will be creating a server that behaves like an ATM",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/javalos45/Express-Basics-Activity.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/javalos45/Express-Basics-Activity/issues"
+  },
+  "homepage": "https://github.com/javalos45/Express-Basics-Activity#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}
